@@ -254,7 +254,7 @@ input, select, textarea {
 	code {
 		border-radius: 8px;
 		border: solid 1px;
-		font-family: "Cherry Bomb One", system-ui;  /* "Courier New", monospace;*/
+		font-family: "Cherry Bomb One", sans-serif;  /* "Courier New", monospace;*/
 		font-size: 0.9em;
 		margin: 0 0.25em;
 		padding: 0.25em 0.65em;
@@ -2084,7 +2084,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: 'Font Awesome 5 Free';
+				font-family: "Cherry Bomb One", sans-serif; /*'Font Awesome 5 Free';*/
 				font-weight: 900;
 			}
 
@@ -2229,7 +2229,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
+			font-family: "Cherry Bomb One", sans-serif; /*'Font Awesome 5 Free';*/
 			font-weight: 400;
 		}
 
@@ -2246,7 +2246,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+			font-family: "Cherry Bomb One", sans-serif; /*'Font Awesome 5 Brands';*/
 		}
 
 		.icon.major {
@@ -3777,6 +3777,7 @@ input, select, textarea {
 			}
 
 		}
+
 
 
 
