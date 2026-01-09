@@ -3208,7 +3208,7 @@ input, select, textarea {
 		-ms-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 		transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 		background-color: #ff4c00;
-		color: #ff6200;
+		color: #ff8c00;
 		position: absolute;
 		width: 64em;
 		max-width: calc(100% - 4em);
@@ -3774,6 +3774,7 @@ input, select, textarea {
 			}
 
 		}
+
 
 
 
