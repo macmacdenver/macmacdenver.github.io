@@ -2361,6 +2361,18 @@ input, select, textarea {
 		position: relative;
 	}
 
+	.img-container {
+	    display: flex; /* Makes the images line up horizontally */
+	    justify-content: center; /* Centers the images within the container */
+	    gap: 10px; /* Adds space between images */
+	}
+	
+	.img-container img {
+	    width: 33.33%; /* Makes each image take up one-third of the container width */
+	    height: auto; /* Maintains aspect ratio */
+	    box-sizing: border-box; /* Ensures padding/borders are included in the width calculation */
+	}
+
 		.image img {
 			border-radius: 8px;
 			display: block;
@@ -3774,6 +3786,7 @@ input, select, textarea {
 			}
 
 		}
+
 
 
 
