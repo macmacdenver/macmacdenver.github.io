@@ -2231,7 +2231,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: "Cherry Bomb One", sans-serif; /*'Font Awesome 5 Free';*/
+			font-family: 'Font Awesome 5 Free';
 			font-weight: 400;
 		}
 
@@ -2248,7 +2248,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: "Cherry Bomb One", sans-serif; /*'Font Awesome 5 Brands';*/
+			font-family: 'Font Awesome 5 Brands';
 		}
 
 		.icon.major {
@@ -3779,6 +3779,7 @@ input, select, textarea {
 			}
 
 		}
+
 
 
 
